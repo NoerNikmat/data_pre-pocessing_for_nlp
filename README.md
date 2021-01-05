@@ -40,18 +40,18 @@ Nicapotato, an owner of dataset Women's E-Commerce Clothing Reviews that looks f
 by [Abien Fred Agarap - Github](https://github.com/AFAgarap/ecommerce-reviews-analysis)
 
 ## Metadata
-**Usage Information**
+**Usage Information**    
 - License [CC0: Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)
 - Visibility **public**
-
 
 **Maintainers**
 - Dataset owner [nicapotato](https://www.kaggle.com/nicapotato)
 
 **Updates**
+
     Expected update frequency (Not specified)
     Last updated 2018-02-04
-    Date created 2018-02-04
+    Date created 2018-02-04      
     Current version Version 1
 
 ## Objectives
